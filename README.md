@@ -1,5 +1,3 @@
-Certainly! Here's a **formal and professional README template** for your case study, assuming it's related to data analysis and modeling based on your previous context:
-
 ---
 
 # 📊 Invent.AI Case Study – Sales Analysis and Promotion Impact
