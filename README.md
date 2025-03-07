@@ -1,6 +1,6 @@
 ---
 
-# 📊 Invent.AI Case Study – Sales Analysis and Promotion Impact
+# 📊 Invent.AI Case Study – Promotion Effectiveness and Cannibalization Analysis
 
 ## Overview
 
