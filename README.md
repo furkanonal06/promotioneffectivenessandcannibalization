@@ -84,7 +84,7 @@ The analysis followed a structured, step-by-step process:
    ```bash
    cd casestudy
    ```
-3. (Optional) Install the required Python packages:
+3. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
    ```
