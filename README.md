@@ -108,7 +108,6 @@ This analysis assists businesses in:
 ## Author
 
 **Furkan Önal**  
-Data Science Enthusiast | Business-Focused Analyst  
 [LinkedIn](https://www.linkedin.com/in/furkan-onal/)
 
 ---
