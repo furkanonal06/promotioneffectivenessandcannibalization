@@ -48,8 +48,8 @@ The analysis followed a structured, step-by-step process:
 │
 ├── 📄 case_study.ipynb       # Jupyter Notebook with the full analysis
 ├── 📄 README.md              # Project documentation
-├── 📄 requirements.txt       # (Optional) List of required Python packages
-└── 📂 data/                  # Dataset files (if applicable)
+├── 📄 requirements.txt       # List of required Python packages
+└── 📂 data/                  # Dataset files
 ```
 
 ---
