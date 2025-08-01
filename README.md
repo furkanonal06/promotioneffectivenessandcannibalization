@@ -1,10 +1,10 @@
 ---
 
-# 📊 Case Study – Promotion Effectiveness and Cannibalization Analysis
+# 📊 Promotion Effectiveness and Cannibalization Analysis
 
 ## Overview
 
-This repository contains the solution to a **Case Study**, which focuses on analyzing sales data to evaluate the impact of various promotions and identify potential cannibalization effects. The project leverages exploratory data analysis (EDA), statistical methods, and machine learning techniques to provide actionable insights and business recommendations.
+This repository contains a study focuses on analyzing sales data to evaluate the impact of various promotions and identify potential cannibalization effects. The project leverages exploratory data analysis (EDA), statistical methods, and machine learning techniques to provide actionable insights and business recommendations.
 
 ---
 
