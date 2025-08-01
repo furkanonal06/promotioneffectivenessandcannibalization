@@ -1,10 +1,10 @@
 ---
 
-# 📊 Invent.AI Case Study – Promotion Effectiveness and Cannibalization Analysis
+# 📊 Case Study – Promotion Effectiveness and Cannibalization Analysis
 
 ## Overview
 
-This repository contains the solution to the **Invent.AI Case Study**, which focuses on analyzing sales data to evaluate the impact of various promotions and identify potential cannibalization effects. The project leverages exploratory data analysis (EDA), statistical methods, and machine learning techniques to provide actionable insights and business recommendations.
+This repository contains the solution to a **Case Study**, which focuses on analyzing sales data to evaluate the impact of various promotions and identify potential cannibalization effects. The project leverages exploratory data analysis (EDA), statistical methods, and machine learning techniques to provide actionable insights and business recommendations.
 
 ---
 
@@ -44,7 +44,7 @@ The analysis followed a structured, step-by-step process:
 ## Repository Structure
 
 ```
-📂 invent-ai-case-study/
+📂 case-study/
 │
 ├── 📄 case_study.ipynb       # Jupyter Notebook with the full analysis
 ├── 📄 README.md              # Project documentation
